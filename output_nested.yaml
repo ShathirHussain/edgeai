@@ -1,0 +1,9 @@
+name: John Doe
+age: 30
+hobbies:
+  - Reading
+  - Traveling
+  - Coding
+address:
+  city: New York
+  country: USA
